@@ -1,3 +1,1 @@
-# resume
-
-See pdf for resume.
+# See pdf for resume.
